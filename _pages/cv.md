@@ -17,7 +17,7 @@ redirect_from:
 ### Treasurer (October 2024 - Present)
 - Responsible for managing finances in the society.
 - Keep financial records, handle funding from sponsorships and the Durham Student Union.
-- Involved in organising math competitions hosted at Durham, \textit{e.g.} Integeration Bee. 
+- Involved in organising math competitions hosted at Durham, *e.g.* Integeration Bee. 
 - Assisted in hosting weekly problem solving sessions, which are accessible for non-mathematics students while still being challenging for mathematics students as well.
 ## International Conference on Mathematic Software (Durham, UK)
 ### Local Organiser (July 2024)
